@@ -1,7 +1,3 @@
-Absolutely! Here's a more **professional**, **developer-friendly**, and **natural** version of your guide — written as if crafted by a seasoned dev for onboarding teammates, without sounding like it was AI-generated:
-
----
-
 # 🛠 Viable Frontend Codebase – Setup Guide
 
 Welcome to the **Viable Frontend** codebase! This guide will help you get up and running in just a few minutes.
